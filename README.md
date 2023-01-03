@@ -1,1 +1,0 @@
-# osd-sdb-npm-package
